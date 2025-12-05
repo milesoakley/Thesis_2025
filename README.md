@@ -1,5 +1,5 @@
 # Thesis_2025
-This repo contains all files and code mentioned in my MSEE thesis, "Physical (PHY) and Medium Access Control (MAC) Layer Protocol Vulnerability Analysis in 5G New Radio (NR)."
+This repo contains all files and code mentioned in the thesis, "Physical (PHY) and Medium Access Control (MAC) Layer Protocol Vulnerability Analysis in 5G New Radio (NR)," published in partial fulfillment of the degrees of Electrical Engineer and Master of Science in Electrical Engineering.
 
 The MATLAB Code is based upon "NRMIBandSIB1RecoveryExample" from Mathworks. Python code is courtesy of Dr. John D. Roth. All credit due to authors of "From 5G Sniffing to Harvesting Leakages from Privacy Preserving Messengers."
 The 5GSniffer is open sourced at https://github.com/spritelab/5GSniffer. What we refer to as "Capture 1" is their example IQ file, which has download instructions at the URL given.
